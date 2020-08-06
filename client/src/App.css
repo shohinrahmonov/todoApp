@@ -1,0 +1,14 @@
+html{
+  font-size: 62.5%;
+}
+body{
+  font-family: 'Gentium Basic', serif;
+  background: #434b4f;
+  box-sizing: border-box;
+}
+*, *:after, *:before{
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
