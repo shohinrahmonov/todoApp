@@ -10,11 +10,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Tech stack
--React
--Styled Components
--Antd(Icons)
--Express
--Axios
--MongoDb
--Monk
+  -React
+  -Styled Components
+  -Antd(Icons)
+  -Express
+  -Axios
+  -MongoDb
+  -Monk
 
+Deployed App: https://remember-to.now.sh/
